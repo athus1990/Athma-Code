@@ -29,10 +29,8 @@ You need following pyhton libraries/software dependecies installed globally:
 
 
 ### Readme
- * [AnnotationCode:Readme.md] [PlDb]
- * [VedioToImages:Readme.md] [PlGh]
-   <https://github.com/athus1990/Athma-Code/blob/master/AnnotationCode/Readme.md>
-  <https://github.com/athus1990/Athma-Code/blob/master/VideoToImages/Readme.md>
+  https://github.com/athus1990/Athma-Code/blob/master/AnnotationCode/Readme.md
+  https://github.com/athus1990/Athma-Code/blob/master/VideoToImages/Readme.md
 
 
 
