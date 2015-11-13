@@ -29,9 +29,8 @@ You need following pyhton libraries/software dependecies installed globally:
     ```
 
 ##### Readme
-  [annotateTool.py] (https://github.com/athus1990/Athma-Code/blob/master/AnnotationCode/Readme.md)
- 
-  [mov2img] (https://github.com/athus1990/Athma-Code/blob/master/VideoToImages/Readme.md)
+  * [annotateTool.py] (https://github.com/athus1990/Athma-Code/blob/master/AnnotationCode/Readme.md)
+  * [mov2img.py] (https://github.com/athus1990/Athma-Code/blob/master/VideoToImages/Readme.md)
 
 
 
