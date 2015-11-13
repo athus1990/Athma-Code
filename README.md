@@ -31,9 +31,6 @@ You need following pyhton libraries/software dependecies installed globally:
 ### Readme
  * [AnnotationCode:Readme.md] [PlDb]
  * [VedioToImages:Readme.md] [PlGh]
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-   
    [PlDb]: <https://github.com/athus1990/Athma-Code/blob/master/AnnotationCode/Readme.md>
    [PlGh]:  <https://github.com/athus1990/Athma-Code/blob/master/VideoToImages/Readme.md>
 
